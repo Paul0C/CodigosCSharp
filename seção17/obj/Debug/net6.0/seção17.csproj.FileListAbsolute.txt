@@ -1,0 +1,15 @@
+C:\Users\Usuário\Desktop\exercicios curso csharp\seção17\bin\Debug\net6.0\seção17.exe
+C:\Users\Usuário\Desktop\exercicios curso csharp\seção17\bin\Debug\net6.0\seção17.deps.json
+C:\Users\Usuário\Desktop\exercicios curso csharp\seção17\bin\Debug\net6.0\seção17.runtimeconfig.json
+C:\Users\Usuário\Desktop\exercicios curso csharp\seção17\bin\Debug\net6.0\seção17.dll
+C:\Users\Usuário\Desktop\exercicios curso csharp\seção17\bin\Debug\net6.0\ref\seção17.dll
+C:\Users\Usuário\Desktop\exercicios curso csharp\seção17\bin\Debug\net6.0\seção17.pdb
+C:\Users\Usuário\Desktop\exercicios curso csharp\seção17\obj\Debug\net6.0\seção17.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\exercicios curso csharp\seção17\obj\Debug\net6.0\seção17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\exercicios curso csharp\seção17\obj\Debug\net6.0\seção17.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\exercicios curso csharp\seção17\obj\Debug\net6.0\seção17.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\exercicios curso csharp\seção17\obj\Debug\net6.0\seção17.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\exercicios curso csharp\seção17\obj\Debug\net6.0\seção17.dll
+C:\Users\Usuário\Desktop\exercicios curso csharp\seção17\obj\Debug\net6.0\ref\seção17.dll
+C:\Users\Usuário\Desktop\exercicios curso csharp\seção17\obj\Debug\net6.0\seção17.pdb
+C:\Users\Usuário\Desktop\exercicios curso csharp\seção17\obj\Debug\net6.0\seção17.genruntimeconfig.cache
